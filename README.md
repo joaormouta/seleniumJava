@@ -1,2 +1,2 @@
 # seleniumJava
-Selenium with Java
+Selenium @Java
